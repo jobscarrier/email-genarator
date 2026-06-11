@@ -1,0 +1,6 @@
+{
+  "name": "Email Address Generator Pro",
+  "description": "A complete, modern, professional, and secure Email Address Generator Web Application with a separate Admin Panel, custom domain management, and profile pattern controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
